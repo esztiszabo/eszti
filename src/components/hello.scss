@@ -1,0 +1,11 @@
+$primary-color : green;
+
+body {
+  background:white;
+}
+h1, a:link{
+  color:$primary-color !important;
+}
+header{
+  background:$primary-color !important;
+}
